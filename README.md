@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi! 👋 I'm Leonardo Sarmiento
 
-<!--
-**leosar834/leosar834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programming student.  
+📚 Learning Java, Git, MySQL, and web development.  
+🚀 Currently developing a school attendance system.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- MySQL
+- HTML
+- PHP
+- CSS
+- Git
+- Laravel
+
+## Featured Projects
+
+- Database system for an automotive and tire repair company.
+- Java program for a motorcycle parts business.
