@@ -13,8 +13,10 @@
 - CSS
 - Git
 - Laravel
+- Dart
 
 ## Featured Projects
 
 - Database system for an automotive and tire repair company.
 - Java program for a motorcycle parts business.
+- Assistance system for a secondary technical school.
